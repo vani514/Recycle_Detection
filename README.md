@@ -1,1 +1,1 @@
-# garbage-classification-model
+# Intelligent Waste-Classification
